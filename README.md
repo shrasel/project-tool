@@ -1,4 +1,3 @@
-project_tool
-============
+Simple Project Management Tool
+===============================
 
-Simple Project tool using CodeIgniter
